@@ -1,0 +1,7 @@
+numpy
+dlib
+pygame
+imutils==0.5.3
+opencv_python
+scipy
+argparse
