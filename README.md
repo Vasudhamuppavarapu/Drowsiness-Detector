@@ -15,6 +15,8 @@ NOTE: dlib might not be installed, to ensure it is successfully installed;
 pip install cmake
 pip install wheel
 
+NOTE: Download shape_predictor_68_face_landmarks.dat file 
+
 
 
 
